@@ -32,7 +32,7 @@ function ContactUs() {
                     <i className="fa-solid fa-phone h3 pe-2"></i>
                     <span className="h5">Phone</span>
                   </div>
-                  <span>+9424001502, +9425621502</span>
+                  <span>+91-9424001502, +91-9425621502</span>
                 </div>
               </div>
             </div>

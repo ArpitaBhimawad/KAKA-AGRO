@@ -32,9 +32,8 @@ function AboutUS() {
         
          
       <Container className='Cont_rating_rank'>
-        
-        <Figure className='m-4 px-3'>
-          <Figure.Image
+        <Figure className='m-4 px-2'>
+          <Figure.Image className='figure_image'
             width={120}
             height={100}
             
@@ -45,7 +44,7 @@ function AboutUS() {
           Mobile Number:9424001502 <br/>Email:gopalkrishnabhimavad@gmail.com
           </Figure.Caption>
         </Figure> <Figure className='m-4 px-2'>
-          <Figure.Image
+          <Figure.Image className='figure_image'
             width={120}
             height={120}
             alt="171x180"

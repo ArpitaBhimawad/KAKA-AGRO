@@ -46,3 +46,8 @@ font-weight: 800;
 .founder-data{
     margin: 30px 0px 30px 0px;
 }
+
+.figure_image{
+    height: 160px;
+    width: 150px;
+}

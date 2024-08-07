@@ -32,7 +32,7 @@ function AboutUS() {
         
          
       <Container className='Cont_rating_rank'>
-        <Figure className='m-3 px-2'>
+        <Figure className='m-2 px-2'>
           <Figure.Image className='figure_image'
             width={120}
             height={100}
@@ -43,7 +43,7 @@ function AboutUS() {
           Gopal Krishna Ji Bhimavad<br/> Founder <br/>
           Mobile Number:9424001502 <br/>Email:gopalkrishnabhimavad@gmail.com
           </Figure.Caption>
-        </Figure> <Figure className='m-3 px-2'>
+        </Figure> <Figure className='m-2 px-2'>
           <Figure.Image className='figure_image'
             width={120}
             height={120}

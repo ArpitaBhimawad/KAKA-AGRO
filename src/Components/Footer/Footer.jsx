@@ -31,7 +31,7 @@ function Footer() {
                 <a href='https://www.instagram.com/'> <Image href='' className='second_image' src="\assets\images\instagram.png" roundedCircle height={30} width={30} /></a>
               </div>
               <div className='third'>
-                <p className='mx-6' > Created by Love ❤️<br />Copyright @2023-2024. </p>
+                <p className='mx-6' > Created by ❤️<br />Copyright @2023-2024. </p>
               </div>
             </div>
           </Col>

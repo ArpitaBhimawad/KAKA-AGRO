@@ -27,10 +27,7 @@ function AboutUS() {
         <ShopImage />
 
         <div className='founder-data'>
-          <div>
-            <img className='line-png' src="src\assets\images\10578804.png" alt="" />
-          </div>
-          
+                 
         
          
       <Container className='Cont_rating_rank'>

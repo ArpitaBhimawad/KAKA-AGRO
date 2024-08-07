@@ -26,6 +26,7 @@ function AboutUS() {
 
         <ShopImage />
 
+
         <div className='founder-data'>
                  
         
